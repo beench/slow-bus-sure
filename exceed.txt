@@ -1,0 +1,8 @@
+red - 5 volt
+black - GND
+white - pin 
+
+termometer (digital #include <dht.h>)
++ > 5V
+out > pin
+- > GND
